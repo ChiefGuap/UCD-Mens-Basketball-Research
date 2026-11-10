@@ -1,0 +1,26 @@
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# R / RStudio
+.Rhistory
+.RData
+.Ruserdata
+
+# Environment / Secret variables
+.env
+*.local
