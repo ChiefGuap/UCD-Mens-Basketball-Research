@@ -24,3 +24,6 @@ ENV/
 # Environment / Secret variables
 .env
 *.local
+
+# Raw cache files
+data/raw/
